@@ -1,1 +1,1 @@
-# SDL2-template
+# SDL3-template
